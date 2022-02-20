@@ -1,0 +1,91 @@
+body{
+  background: url(background.jpg);
+  background-size: cover;
+}
+
+.contenitore{
+  margin-left: 18%;
+  margin-right: 18%;
+  margin-top: 2%;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  border: 1px;
+  width: 1000px;
+  height: 650px;
+
+}
+
+#logo{
+  width: 20%;
+  height: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#titolo{
+  font-size: 30px;
+  text-align: center;
+  color: #00dd00;
+  font-family: Arial;
+}
+
+
+nav{
+  background-color: #00dd00;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+
+.inputButton{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.spanButton{
+  margin-left: 35%;
+
+}
+
+main{
+  margin-left: 50px;
+  color: white;
+}
+
+
+#chargeLine1{
+  width: 300px;
+  height: 25px;
+  background-color: #ffb347;
+  border-radius: 5px;
+
+}
+
+
+#chargeLine2{
+  width: 500px;
+  height: 25px;
+  background-color: #00dd00;
+  border-radius: 5px;
+
+}
+
+#chargeLine3{
+  width: 130px;
+  height: 25px;
+  background-color: #E34234;
+  border-radius: 5px;
+
+}
+
+.placeName{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+section{
+  font-family: Arial;
+  font-size: 14px;
+}
